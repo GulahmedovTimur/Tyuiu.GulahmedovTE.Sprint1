@@ -1,5 +1,5 @@
-using Tyuiu.GulahmedovTG.Sprint1.Task0.V5.Lib;
-namespace Tyuiu.GulahmedovTG.Sprint1.Task0.V5.Test
+using Tyuiu.GulahmedovTE.Sprint1.Task0.V5.Lib;
+namespace Tyuiu.GulahmedovTE.Sprint1.Task0.V5.Test
 {
     [TestClass]
     public class DataServiceTest
